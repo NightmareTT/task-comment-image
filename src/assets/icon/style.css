@@ -1,0 +1,125 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?baqwe0');
+  src:  url('fonts/icomoon.eot?baqwe0#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?baqwe0') format('truetype'),
+    url('fonts/icomoon.woff?baqwe0') format('woff'),
+    url('fonts/icomoon.svg?baqwe0#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-mark_enlarge:before {
+    font-size: 24px;
+    content: "\e900";
+    color: #fff;
+}
+.icon-mark_graffiti:before {
+  content: "\e901";
+  color: #fff;
+  font-size: 24px;
+}
+.icon-mark_icon_text:before {
+  content: "\e902";
+  color: #fff;
+  font-size: 24px;
+}
+.icon-mark_mark:before {
+  content: "\e903";
+  color: #fff;
+  font-size: 24px;
+}
+.icon-mark_move1:before {
+  content: "\e904";
+  color: #fff;
+  font-size: 24px;
+}
+.icon-mark_narrow:before {
+  content: "\e905";
+  color: #fff;
+  font-size: 24px;
+}
+.icon-mark_revoke:before {
+  content: "\e904";
+  color: #fff;
+  font-size: 24px;
+}
+.icon-mark_right:before {
+  content: "\e907";
+  color: #fff;
+  font-size: 24px;
+}
+.icon-mark_rotate1:before {
+  content: "\e908";
+  color: #fff;
+  font-size: 24px;
+}
+.icon-mark_sticker1:before {
+  content: "\e909";
+  color: #fff;
+  font-size: 24px;
+}
+.icon-mark_text:before {
+  content: "\e90a";
+  color: #fff;
+  font-size: 24px;
+}
+.icon-mark_voice1:before {
+  content: "\e90b";
+  color: #fff;
+  font-size: 24px;
+}
+.icon-mark_voice_bt_pause1:before {
+  content: "\e90c";
+  color: #fff;
+  font-size: 24px;
+}
+.icon-mark_voice_bt_play:before {
+  content: "\e90d";
+  color: #fff;
+  font-size: 24px;
+}
+.icon-mark_wrong:before {
+  content: "\e90e";
+  color: #fff;
+  font-size: 24px;
+}
+.icon-mark_move:before {
+  content: "\e90f";
+  color: #fff;
+  font-size: 24px;
+}
+.icon-mark_rotate:before {
+  content: "\e910";
+  color: #fff;
+  font-size: 24px;
+}
+.icon-mark_sticker:before {
+  content: "\e911";
+  color: #fff;
+  font-size: 24px;
+}
+.icon-mark_voice:before {
+  content: "\e912";
+  color: #fff;
+  font-size: 24px;
+}
+.icon-mark_voice_bt_pause:before {
+  content: "\e913";
+  color: #fff;
+  font-size: 24px;
+}
